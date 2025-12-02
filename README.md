@@ -11,3 +11,9 @@
 ## Data Modeling 
 * user arry to represent contact list
 * use object to represent a contact
+
+## show the data
+```
+John Snow (john )
+priority: 5 Favoriate: true
+```
